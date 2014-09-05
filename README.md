@@ -634,7 +634,7 @@ There are a number of projects using Kryo. A few are listed below. Please post a
 - [Apache Hive](http://hive.apache.org/) (query plan serialization)
 - [DataNucleus](https://github.com/datanucleus/type-converter-kryo) (JDO/JPA persistence framework)
 - [CloudPelican](http://www.cloudpelican.com/)
-- [Yahoo's S4](http://www.s4.io/) (distributed stream computing)
+- [Yahoo's S4](http://incubator.apache.org/s4/) (distributed stream computing)
 - [Storm](https://github.com/nathanmarz/storm/wiki/Serialization) (distributed realtime computation system, in turn used by [many others](https://github.com/nathanmarz/storm/wiki/Powered-By))
 - [Cascalog](https://github.com/nathanmarz/cascalog) (Clojure/Java data processing and querying [details](https://groups.google.com/d/msg/cascalog-user/qgwO2vbkRa0/UeClnLL5OsgJ))
 - [memcached-session-manager](https://code.google.com/p/memcached-session-manager/) (Tomcat high-availability sessions)
